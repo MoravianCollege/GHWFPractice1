@@ -1,1 +1,3 @@
-# GHWFPractic1
+# GHWFPractice1
+
+Github workflow practice
