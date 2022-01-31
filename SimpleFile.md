@@ -4,4 +4,4 @@ Contributor(s):
 
 * Kimberly Wolf
 
-* Kimberly Wolf (x2)
+* Kimberly Miller (x2)
