@@ -6,5 +6,7 @@
 
 * Kimberly Wolf
 * Ben Jones
-* Ben Jones
-update!
+* Kimberly Miller
+* Maxwell Schuman
+
+
