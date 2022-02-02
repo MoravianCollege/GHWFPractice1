@@ -5,3 +5,4 @@
 #### Contributors
 
 * Kimberly Wolf
+* Kimberly Miller
