@@ -6,3 +6,5 @@
 
 * Kimberly Wolf
 * Kimberly Miller
+* Maxwell Schuman
+
